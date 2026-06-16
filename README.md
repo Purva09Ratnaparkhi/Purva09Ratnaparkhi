@@ -1,32 +1,43 @@
-# Hi, I'm Purva 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Purva%20Ratnaparkhi&fontSize=60)
+# Purva Ratnaparkhi
 
-AI & Data Science student passionate about Generative AI, Agentic AI, LLMs, and RAG systems.
+### Building intelligent systems with Generative AI, Agentic AI, LLMs & RAG
 
-## 🚀 About Me
+👋 Hi, I'm Purva
 
-- 🎓 B.Tech in AI & Data Science at VIT Pune
-- 🤖 Interested in GenAI, Agentic AI, LLMs, and RAG
-- 🔬 Published Researcher
-- 🏆 Hackathon Winner
-- 🌱 Currently exploring advanced AI systems and intelligent automation
+💡 AI & Data Science @ VIT Pune
+🤖 Passionate about Generative AI, Agentic AI, LLMs, and RAG Systems
+🚀 Building AI-powered applications and intelligent automation workflows
+📚 Exploring production-grade AI systems and real-world AI applications
 
-## 🛠️ Tech Stack
+---
 
-Python • FastAPI • Flask • LangChain • LangGraph • Scikit-learn • React • SQL
+### What I'm Working On
 
-## 📌 Featured Projects
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Large Language Model Applications
+* AI Automation Workflows
+* Machine Learning Solutions
 
-### RAGForge
-Enterprise-grade RAG platform with document ingestion, vector search, and intelligent retrieval.
+---
 
-### SkillTrax
-AI-powered learning and skill assessment platform.
+### Tech Stack
 
-### KeyStroke Dynamics Authentication
-Behavioral biometric authentication using typing patterns and machine learning.
+**Languages:** Python • Java • SQL • JavaScript
 
-## 🌐 Connect With Me
+**Frameworks & Libraries:** FastAPI • Flask • React • LangChain • LangGraph • Scikit-learn
 
-- Portfolio: your-portfolio-link
-- LinkedIn: your-linkedin-link
-- Email: purvaratnaparkhi09@gmail.com
+**AI & Data:** Generative AI • LLMs • RAG • Prompt Engineering • Vector Databases • ML
+
+**Tools:** Git • GitHub • Docker • Postman
+
+---
+
+### Connect
+
+📧 [purvaratnaparkhi09@gmail.com](mailto:purvaratnaparkhi09@gmail.com)
+
+💼 LinkedIn: [LinkedIn Link]
+
+🌐 Portfolio: [Portfolio Link]
