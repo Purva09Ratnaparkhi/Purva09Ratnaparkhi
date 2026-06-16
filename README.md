@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Purva%20Ratnaparkhi&fontSize=60)
-# Purva Ratnaparkhi
+
 
 ### Building intelligent systems with Generative AI, Agentic AI, LLMs & RAG
 
@@ -38,6 +38,6 @@
 
 📧 [purvaratnaparkhi09@gmail.com](mailto:purvaratnaparkhi09@gmail.com)
 
-💼 LinkedIn: [LinkedIn Link]
+💼 LinkedIn: [[LinkedIn Link]](https://www.linkedin.com/in/purva-ratnaparkhi-501529261/)
 
-🌐 Portfolio: [Portfolio Link]
+🌐 Portfolio: [[Portfolio Link]](https://purva-ratnaparkhi.vercel.app/)
